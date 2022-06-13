@@ -1,0 +1,7 @@
+Before running gui2.py, please run the below commands. 
+
+pip install argparse
+pip install tk
+pip install PySimpleGUI
+pip install moviepy
+pip install SpeechRecognition
